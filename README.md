@@ -1,2 +1,5 @@
 # nk-kushwaha
- my first repository
+ my first repository 
+ <br>
+ Auther- Nirmal Kushwaha
+ 
